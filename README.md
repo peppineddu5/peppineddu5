@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @peppineddu5
-- 👀 I’m interested web development
-- 🌱 I’m currently learning react
-- 📫 How to reach me bordino955@gmail.com
+Voglio essere il peggiore dei migliori.
+Così potrò dire di essere unode dei migliori.
